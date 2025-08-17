@@ -17,7 +17,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@bynmch/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@bynmch/posts"> </a>
-         <a href=[minch99128@gmail.com](https://www.notion.so/About-Me-23318b2983e0807daa48f0ac0b6dc374)> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=[minch99128@gmail.com](https://www.notion.so/About-Me-23318b2983e0807daa48f0ac0b6dc374)"> </a>
+         <a href=[minch99128@gmail.com]> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=[minch99128@gmail.com]"> </a>
          <a href=mailto:minch99128@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minch99128@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
