@@ -9,7 +9,6 @@
     <summary>📝 게시글</summary>
     <details>
       <summary>게시글 작성</summary>
-      ![봉사모임등록](https://github.com/user-attachments/assets/120e0412-0e39-4072-af56-e1270bbd01cb)
 
     </details>
     <details>
